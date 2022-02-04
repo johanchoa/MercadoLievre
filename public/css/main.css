@@ -1,0 +1,31 @@
+h1 {
+    color: #2535c5;
+}
+
+h2 {
+    color: #e72121;
+}
+
+.encabezado {
+    color: #80076f;
+}
+
+#identificador {
+    color: #ce4610
+}
+
+.rojo {
+    color: red
+}
+
+.rojo p {
+    color: blue
+}
+
+.texto-negrita {
+    font-weight: bold;
+}
+
+.contenedor-busqueda {
+    background: red
+}
