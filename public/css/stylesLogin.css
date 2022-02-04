@@ -1,0 +1,186 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#ebebeb;
+}
+
+h3{
+    font-size: 24px;
+}
+
+p{
+    font-size: 12px;
+}
+div.top-header{
+    padding: 5%;
+}
+
+header{
+    background-color: #EAC926;
+}
+
+header div.logo{
+    width: 50%;
+}
+
+header div.logo{
+    padding: 10px;
+}
+
+header nav{
+    font-size: 12px;
+}
+
+header ul li{
+    list-style-type: none;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #000;
+}
+
+header .form .input{
+    background-color: #FFF;
+    border: 1px solid #000;
+    outline: none;
+    color: #666;
+    padding: 2px;
+    width: 95%;
+}
+
+header .form .submit{
+    background-color: #FFF;
+    border: 1px solid #000;
+    color: #666;
+    width: 10%;
+}
+
+header div.top-header p{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.nombre-apellido{
+    padding: 1px;
+    margin: 10px;
+
+}
+
+.usuario{
+    padding: 1px;
+    margin: 10px;
+}
+
+.email{
+    padding: 1px;
+    margin: 10px;
+}
+
+.fecha-de-nacimiento{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.boton-fecha-de-nacimiento{
+    padding: 1px;
+    margin: 10px;
+}
+
+.domicilio{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.boton-domicilio{
+    padding: 1px;
+    margin: 10px;
+}
+
+.perfil{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.interes{
+    font-size: 16px;
+    font-weight: bold; 
+    margin: 10px;
+}
+
+.comprar-vender{
+    padding: 1px;
+    margin: 10px;
+}
+
+.interes-del-usuario{
+    padding: 1px;
+    margin: 10px;
+}
+
+div.electro{
+    margin-left: 5%;
+    line-height: 3;
+}
+
+div.moda{
+    margin-left: 5%;
+    line-height: 3; 
+}
+
+div.hogar{
+    margin-left: 5%;
+    line-height: 3;
+}
+
+div.jugueteria{
+    margin-left: 5%;
+    line-height: 3;
+}
+div.vida{
+    margin-left: 5%;
+    line-height: 3; 
+}
+
+.foto-de-perfil{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.boton-foto-de-perfil{
+    padding: 1px;
+    margin: 10px;
+    width: 60%;
+}
+
+.password1{
+    padding: 1px;
+    margin: 10px;
+    width: 60%;
+}
+
+.password2{
+    padding: 1px;
+    margin: 10px;
+    width: 60%;
+}
+
+.reset{
+    padding: 1px;
+    margin: 10px;
+}
+
+.enviar{
+    padding: 1px;
+    margin: 10px;
+}
